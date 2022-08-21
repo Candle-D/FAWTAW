@@ -1,0 +1,38 @@
+body {
+}
+h1 {
+  font-size: 80px;
+  font-family: "Times New Roman", Times, serif;
+}
+.column {
+  background-color: hotpink;
+  justify-content: flex-end;
+}
+card {
+  border: none;
+}
+.button-lite {
+  background-color: rgba(9, 109, 106);
+  color: white;
+  border: none;
+}
+.footer {
+  background-color: #06042b;
+  color: white;
+  padding: 10px;
+}
+.button {
+  background-color: none;
+  color: white;
+  border: 1px solid white;
+}
+.button:hover {
+  border: 2px solid white;
+  color: white;
+}
+.card-img-top {
+  border-radius: 5px;
+}
+.carousel-caption {
+  margin-left: 10px;
+}
